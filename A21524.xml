@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, aswel for restrainct of cariyng of graine out of the realme and order of bringyng of the same to the markettes, as also for restraynct of cariyng out of all kindes of victualles and certain other commodites of the realme, set furth by the kynges Maiestie, with thaduise of his highnes counsaill, for reformacion of the excessiue prices of thesame, the .xx. of October, the. iiij. yere of his most noble reigne</title>
+            <title>Proclamations. 1550-10-20</title>
+            <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1550</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21524</idno>
+            <idno type="STC">STC 7833</idno>
+            <idno type="STC">ESTC S110372</idno>
+            <idno type="EEBO-CITATION">99845928</idno>
+            <idno type="PROQUEST">99845928</idno>
+            <idno type="VID">10860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10860)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 25:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, aswel for restrainct of cariyng of graine out of the realme and order of bringyng of the same to the markettes, as also for restraynct of cariyng out of all kindes of victualles and certain other commodites of the realme, set furth by the kynges Maiestie, with thaduise of his highnes counsaill, for reformacion of the excessiue prices of thesame, the .xx. of October, the. iiij. yere of his most noble reigne</title>
+                  <title>Proclamations. 1550-10-20</title>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+               </titleStmt>
+               <extent>[4] leaves   </extent>
+               <publicationStmt>
+                  <publisher>Richardus Grafton typographus regius excudebat.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>M. D. L. [1550]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With maximum prices for sale at English markets. 20 Oct. 1550--STC.</note>
+                  <note>Reproduction of the original in the Society of Antiquaries.</note>
+                  <note>Below colophon: Cum priuilegio ad imprimendum solum.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grain trade --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Grain --  Prices --  Early works to 1800.</term>
+               <term>Proclamations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:10860:1" rendition="simple:additions"/>
+            <head>¶ A Proclamation, aſwel for reſtrainct of cariyng of Graine out of the Realme and order of bringyng of the ſame to the markettes, as alſo for reſtraynct of cariyng out of all kindes of victualles and certain other commodites of the Realme, ſet furth by the kynges Maieſtie, with thaduiſe of his highnes counſaill, for reformacion of the exceſſiue prices of theſame, the .xx. of October, the .iiij. yere of his moſt noble reigne.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here as at the parliament holden vpon prorogacion at Weſtminſter the .xv. daye of Ianuary in the .xxv. yere of the Reigne of our moſt deare father of famous memorye kyng Henry theight, it was ordeined and enacted by auctoritie of the ſame parliament, that the lord Chauncellor of England, The lorde Treſorer, The lorde Preſident of the kynges moſt honorable counſaill, The lorde Priuie ſeale, The lord Stuard, The lord Chamberlaine, and all other Lordes of the kynges counſaill, The Treſorer and Comptroller of the kynges moſte hono<g ref="char:EOLhyphen"/>rable Houſe The Chauncellor of the Duchie of Lancaſter, The kynges Iuſtices of either Benche, The Chauncellor, Chamberlains, vnder Treſorer and Barones of the kynges exchequer, or vii. of them at the leſte, Wherof the lord Chauncellor, The lord Treſoret, The lord Preſident of the kynges Counſail, or the lorde Priuie Seale to be one, ſhulde haue power and auctoritie from tyme to time as the cauſe ſhulde requier to ſet and taxe reſonable priſes of al kyndes of Cheſe, Butter, Capones, Hennes, Chekines and other kyndes of Victualles neceſſary for mennes ſuſtenaunce mencioned in the ſaid acte, Howe they ſhulde be ſolde in groſſe or by retayle for relief of the kynges ſubiectes, And that after ſuche prices ſette and taxed in forme aforeſaid, Proclamacion ſhulde be made in the kynges name vnder the great Seale of theſaid prices in ſuche parties of this Realme as ſhuld be conuenient for the ſame. And it was further enacted by theſaid eſtatute that all Farmores, owners, Broggers &amp; all other victuallers whatſoeuer, ha<g ref="char:EOLhyphen"/>uyng or kepyng any of the kyndes of victualles mencioned in theſayd acte, to thentent to ſell, ſhuld ſell theſame to ſuch the kinges ſubiectes as wil bye them, at ſuche prices as ſhuld be ſet and taxed by theſaid proclamacio<g ref="char:cmbAbbrStroke">̄</g>, apon y<hi rend="sup">e</hi> peines to be expreſſed &amp; limitted in theſaid proclamacio<g ref="char:cmbAbbrStroke">̄</g>, to be loſt, forfaited &amp; Leuied to the kynges vſe, in ſuche wiſe as by the ſaid proclamacion ſhulde be declared. And further by theſame acte it was prouided that theſame acte or any thyng therin conteined ſhulde not be hurtfull to Maiors Shiriffes, Bailiefes or other officers of Cities, Boroughes or tounes corporate, nor to any perſon or per<g ref="char:EOLhyphen"/>ſones or bodies politique hauyng auctoritie to ſet prices of ſuche victualles, or of any of theim, but that they and euery of theim might ſet prices therof, as if that acte had neuer ben had or made. And it was alſo enacted by theſame acte, that no perſon or perſons oneles it wer by licens vnder the kynges great Seal, fromthenſforth ſhuld carie or conuey or cauſe to be caried or conueied any corne, Beoffes, Muttons, Ve<g ref="char:EOLhyphen"/>ales, Porkes or any other of the victualles aforſaid to any the parties beyonde the ſea, excepte onely for the victuallyng of the towne of Calice, Guiſnes, Hammes and the matches of theſame. And excepte for victuallyng of Maſters, Mariners &amp; marchau<g ref="char:cmbAbbrStroke">̄</g>tes Shippes paſſyng the ſeas. And alſo excepte barel<g ref="char:EOLhyphen"/>led Butter and meale to be caried to the parties of Iſeland as hath ben accuſtomed, vpon payne of for<g ref="char:EOLhyphen"/>faityng of the value of the thyng conueied and caried into the parties of beyond the ſea contrarie to the<g ref="char:EOLhyphen"/>ſame acte: Thone halfe thereof to thuſe of our ſaid ſouereigne lorde the kyng, and thoder half to the par<g ref="char:EOLhyphen"/>tie that will ſue for theſame by bill, plaint, writt or informacion in any of the kynges Courtes of recorde. In whiche ſuites the defendant ſhall not wage his Lawe, nor any proteccion or eſſoine for hym ſhalbe al<g ref="char:EOLhyphen"/>lowed, as by theſame acte more at large it may and dothe appere.</p>
+            <p>And foraſmuche as diuers &amp; ſondry great complaintes of inhau<g ref="char:cmbAbbrStroke">̄</g>ſing of y<hi rend="sup">e</hi> prices of victualles, neceſſary
+<pb facs="tcp:10860:2"/> for mans ſuſtenaunce, &amp; ineſpeciall of Corne, Graine. Butter, &amp; theſe be had &amp; made not only to the kinges moſt excelle<g ref="char:cmbAbbrStroke">̄</g>t maieſte, but alſo to his moſt honorable Counſailors, by reaſon that diuerſe his ſubiectes, &amp; o<g ref="char:EOLhyphen"/>thers vpo<g ref="char:cmbAbbrStroke">̄</g> their inſatiable couetouſnes, minding &amp; purpoſing of their peruers mindes to make gret derth &amp; ſcarcitie, more the<g ref="char:cmbAbbrStroke">̄</g> neceſſite requireth of corne, grain, beoffes, muttons, veales, porkes, butter, cheſe, &amp; other victualles, neceſſary for mannes ſuſtenance, not onely by vnlauful engroſſing, forſtalling and regrating of theſame, but alſo by vnlawfull tranſporting and conueiyng the ſame victualles and other the premi<g ref="char:EOLhyphen"/>ſſes into ſundry parties beyond the ſeas, contrary to theſaid ſtatute, and contrary to the kinges maieſtes Lawes and Proclamations, in that behalfe had and made, and to the greate hurt and perill of the co<g ref="char:cmbAbbrStroke">̄</g>mo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>welth of this his realme: <hi>VVHERVPON</hi> the kinges moſt excellent maieſte hauing a vigila<g ref="char:cmbAbbrStroke">̄</g>t &amp; merciful eie &amp; reſpect towards his louing ſubiects, and willing and ſtraightly charging his ſaid ſubiects and others fromhencefurth to enterpriſe no ſuche offences, contrary to his Lawes, Statutes or Proclamations v<g ref="char:EOLhyphen"/>pon the peines and forfaitures conteined in theſame, and vpon his high indignatio<g ref="char:cmbAbbrStroke">̄</g> and diſpleaſure, hath according to the tenour of the ſaid acte willed and required his honorable Counſalors named in the ſayd acte to ſetfurthe reaſonable prices of all kinde of Corne, Grayne, Butter and Cheſe, according to the te<g ref="char:EOLhyphen"/>nour of the ſaid acte. In conſideracion whereof, the lord Chancelour of England, The Lord Threaſorer of Englond, the Lord Preſident of the kinges moſt honorable Counſail, The Lord Priuie Seale, The lord Chamberlein, &amp; al other limited &amp; appoincted by theſaid act for taxing &amp; ſetting the priſes of al kind of victualles mencioned in the ſaid acte, haue by aucthoritie of the ſaid act, ſet &amp; taxed reaſonable priſes of all kinde of Greine, mencioned in the ſaide acte to be ſolde in forme following, That is to ſay, that from the feaſt of all Sainctes next enſuing without delay all and ſinguler perſone and perſons, hauing or ke<g ref="char:EOLhyphen"/>ping any of the kindes of Grain, Butter or cheſe within this realme to the entent to ſell, ſhal ſell theſame to ſuch of the Kinges Subiectes as will bie them at the prices hereafter mencioned, or vndre, and not a<g ref="char:EOLhyphen"/>boue, that is to ſay, white Wheate of the beſt ſorte, cleane and ſwete and not tailed, for xiii s<g ref="char:cmbAbbrStroke">̄</g>. iiii d. the quarter and not aboue, and White Wheate of the ſecond ſorte, and redde Wheate of the beſt ſorte, cleane Swete and not Tailed, for xi.s<g ref="char:cmbAbbrStroke">̄</g>. the Quarter, and not aboue, and Graye Wheate of the beſt ſorte, cleane Swete, and not Tailed, for .x.s<g ref="char:cmbAbbrStroke">̄</g>. the quarter, and not aboue. And all other Wheate aſwell White, Redde and Graye of the meaneſt ſorte not cleane or tailed, for viii.s<g ref="char:cmbAbbrStroke">̄</g> the quarter, and not aboue. And that Malt cleane, ſwete and of the beſt ſorte, ſhalbe ſold for .x s<g ref="char:cmbAbbrStroke">̄</g>. the Quarter, and not aboue, and Malt of the ſecond ſorte for viii.s<g ref="char:cmbAbbrStroke">̄</g>. the quarter, and not aboue. And Rie of the beſt, cleaneſt, and ſweteſt ſort, for .vii.s<g ref="char:cmbAbbrStroke">̄</g>. the quarter, and not aboue. And Rie of the ſecond ſorte for vi.s<g ref="char:cmbAbbrStroke">̄</g>. the quarter, and not aboue. And Barly of the beſt ſorte, cleane and ſwete, for .ix s<g ref="char:cmbAbbrStroke">̄</g>. the quarter, and not aboue, and Barly of the ſecond ſort for .vii.s<g ref="char:cmbAbbrStroke">̄</g>. the quarter, and not aboue. Beanes or Peaſe of the beſt ſort, cleane, and ſwete for .v s<g ref="char:cmbAbbrStroke">̄</g>. the quarter, and not aboue. And Beanes or Peaſe, of the ſecond ſort, for
+.iii.s<g ref="char:cmbAbbrStroke">̄</g>. viii.d the quarter &amp; not aboue. Otes of the beſt ſorte, cleane, and ſwete for
+.iiii.s<g ref="char:cmbAbbrStroke">̄</g>. the quarter, and not aboue, accompting.viii. Buſſhelles to the quarter.</p>
+            <p>Prouided alwaies that in what place or countie ſoeuer within this the kinges Realm of England or other his graces dominions, the Meaſure or Reyſure ſhall fortune to be more or leſſe then is aboue ex<g ref="char:EOLhyphen"/>preſſed, that then the prices ſhalbe likewiſe taxed, limited and appointed according to .viii. Galones to euery Buſſhel of land meaſure, and not otherwiſe.</p>
+            <p>And that from theſaid feaſt of al Seintes, the pound of ſwete butter not to be ſold aboue .i.d.ob. and barrelled Butter, of Eſſex, the pound, not to be ſold to any the kinges Subiects, aboue. ob.di <expan>
+                  <am>
+                     <g ref="char:abquam"/>
+                  </am>
+                  <ex>quam</ex>
+               </expan>. and bar<g ref="char:EOLhyphen"/>relled Butter of any other partes not to be ſold to the kinges Subiectes aboue. ob, <expan>
+                  <am>
+                     <g ref="char:abquam"/>
+                  </am>
+                  <ex>quam</ex>
+               </expan>. And Cheeſe of Eſ<g ref="char:EOLhyphen"/>ſex to be ſold to the kinges Subiectes from Hallowmes nexte til the newe yeres Croppe. for. ob di. <expan>
+                  <am>
+                     <g ref="char:abquam"/>
+                  </am>
+                  <ex>quam</ex>
+               </expan>. and not aboue. And cheſe of other parties not aboue. ob.<expan>
+                  <am>
+                     <g ref="char:abquam"/>
+                  </am>
+                  <ex>quam</ex>
+               </expan>. And in caſe any perſone or perſones, by himſelfe or by any other by his aſſent or procureme<g ref="char:cmbAbbrStroke">̄</g>t ſhal ſel or attempt to ſel, any kind of Grain, Butter, or Cheſe aboue the prices aforeſaid contrary to theſaid act, and this proclamation, that then the offendor or offen<g ref="char:EOLhyphen"/>dours in that behaulf, ſhal forfete &amp; loſe to the kyng .xiii.s<g ref="char:cmbAbbrStroke">̄</g>. iiii d. for euery Buſſhel of any kind of the cor<g ref="char:EOLhyphen"/>ne or graines before mencioned to be ſold, contrary to the tenoure and effect of this proclamation, and v<g ref="char:EOLhyphen"/>pon
+<pb facs="tcp:10860:3"/> peine of forfeiture of .ii.s. for euery. l. of Butter or Cheſe, to be ſold contrary to the tenour and effect of this proclamation, The motte of y<hi rend="sup">e</hi> which forfeitures. the kinges maieſties pleaſure is, that the firſt pre<g ref="char:EOLhyphen"/>ſentor or approuer that will ſue for the ſame, ſhall haue theſame moietie of his highnes gifte, And that for all and euery ſuche forfeiture the king our ſouereigne Lorde ſhall and maie haue his recouery and remedy by informacion, bill, plaint or accion of debte in any of his highnes courtes of Recorde, in whiche ſute no eſſoin, protection, ne wager of lawe ſhalbe allowed.</p>
+            <p>
+               <hi>AND</hi> to thentent this proclamacion may be put in good execution, the kinges maieſties pleaſure by thaduiſe aforſaid is, y<hi rend="sup">t</hi> the Iuſtices of the Peace in euery Shire ſhall with all conuenient ſpede after this proclamation made, deuide them ſelues, into hundredes, Rapes, and Wapentakes, according as hereto<g ref="char:EOLhyphen"/>fore in other his highnes affaires they haue done, And that iii. or two of them at the leaſt within the limi<g ref="char:EOLhyphen"/>tes of their deuiſion, ſhall with all diligence repaire to all Farmes, Barnes, Stackes, Garners Sellers, Sollers, Loftes, Wykes, Daties, Graunges and other houſes within the precinct or limites of their ſaide deuiſion, and there ſhal, by al the waies and meanes they can, view, ſerch and trie out by their good diſcrecions what quantitie of kindes of Corne, Graine, Butter and Cheſe, euery perſon &amp; perſons haue within the precinct of theſame their deuiſio<g ref="char:cmbAbbrStroke">̄</g>, and after the certeinty therof (as nere as yt can) be kno<g ref="char:EOLhyphen"/>wen vnto them, thei ſhall allotte, appoint and allowe to the owner of theſaid Corne, Graine, Butter, and Cheſe, ſo by them founde in Barnes, Stackes, Garners, Granges, Wykes, Daryes, Loftes, Sellers, Solers and other houſes, ſufficient and competent Graine, Butter and Cheſe, for the finding and main<g ref="char:EOLhyphen"/>tenance of his or their houſes and family, vntil the xx. day of Septembre now next comming and alſo for neceſſary ſede corne to be emploied on his or their grou<g ref="char:cmbAbbrStroke">̄</g>d, farme or farmes, to be ſowe<g ref="char:cmbAbbrStroke">̄</g> before the .xx. day of Iune now next comming, And for y<hi rend="sup">e</hi> ouerplus of the ſaid corne, Grain, Butter and Cheſe, found in Barnes Stackes and other houſes aforeſaid, theſaid Iuſtices ſhal by vertue herof haue aucthoritie to charge and commaund in our name and behalf vpon peine of inpriſonment the ſaide owner &amp; owners, to bring to the markettes next adioyning ſuch porcio<g ref="char:cmbAbbrStroke">̄</g> of theſame ouerplus as they theſaid Iuſtices ſhal think me<g ref="char:EOLhyphen"/>te &amp; requiſite. And in ſuche ſort as by their diſcreſions ſhalbe thought mete &amp; conuenient, there to be ſold according to the rate of prices, before limited by this proclamation. And his highnes pleaſure alſo is, that the Iuſtices, ſo viewing, and ſeing the premiſſes as before, ſhal after the viewe take<g ref="char:cmbAbbrStroke">̄</g> by their writing, ſig<g ref="char:EOLhyphen"/>nifie vnto the chief officer or officers of the market or Marketes, faire or faires, the iuſt proportion of all ſuche kinde of Grayne, as they ſhall ſo apoint to theſame, &amp; alſo what kind of Graine it is, to thentent the ſame may be ſold accordingly.</p>
+            <p>Prouided alwaies, that incaſe eny of theſaid owners do ſell ſuche porcion or part of the porcion of the Corne, Grain, Butter or Cheſe as he or they ſhalbe ſo apointed to bring to the Market, to eny his neigh<g ref="char:EOLhyphen"/>bors being houſeholders or co<g ref="char:cmbAbbrStroke">̄</g>mon laborers, hauing not competent, Graine, Butter nor Cheſe, for his or their familie &amp; for the only Suſtenance and maintenance of himſelf, his houſe &amp; familie, that then theſame owner and owners ſhalbe diſcharged from the bringing of theſaid porcio<g ref="char:cmbAbbrStroke">̄</g> to the next Market ſo to his neighbor ſold in forme aforeſaid.</p>
+            <p>
+               <hi>AND</hi> incaſe eny Fermor or Fermours, owner or owners, ſhall refuſe or do not bring to the merkettes his or their Corne, Graine, Butter or Cheſe according to theffect of this proclamation, or as he or they ſhalbe appointed by theſaid Iuſtices, That then euery ſuch offendor, ſhal for euery ſuch default, ſuffer impriſonment during the kinges pleaſure. And if it ſhal happen any variance or dought to ariſe for the goodnes or baſenes of any of the kindes of graines aforeſaid, Then theſame ſhalbe tried and finally iud<g ref="char:EOLhyphen"/>ged by any two iuſtices of y<hi rend="sup">e</hi> peace, within theſame ſhire, or by the Maior, Bailief, or other hed officer with the two conſtables, or one of them of the toune, pariſh, village, Fayer or Market, where the ſaide Graine ſhalbe put to ſale or offered to be ſold.</p>
+            <p>
+               <hi>AND</hi> furthermore the kinges maieſtie, of his Aucthoritie &amp; power royal, ſtraightly chargeth &amp; commau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>deth al &amp; ſinguler his ſubiects of what eſtate or degre ſo euer he or they be, y<hi rend="sup">t</hi> they ne any of the<g ref="char:cmbAbbrStroke">̄</g> from henſ<g ref="char:EOLhyphen"/>furth,
+<pb facs="tcp:10860:4"/> tranſport Ship or carie, ouer the Seas, out of this his highnes Realme of England or any other his Graces dominions perteining to theſame, or into the Realme of Scotlande, or elles where into any other forein Realmes, or contries, willingly there to make port ſale, of eny Wheat, Malt, Rie. Barly, peaſe Beanes, Ootes, Muſtardſede or any other kind of Graine, or the meales of eny of theſame or any Bief<g ref="char:EOLhyphen"/>fes, Muttons, Veales, Cheſe, Butter, Tallow, Candle, Beere, Ale, Bread, Biſket, Lether, Salt Hides, Wood, Coles, Wooll, Felles, or any other kinde of victual, vpon peine to forfet the thing ſo tranſported or conueied, and ferther to incurre the daunger, peines and forfetures of the kinges lawes and ſtatutes in that behalf mencioned &amp; prouided, any licence, or diſpenſacio<g ref="char:cmbAbbrStroke">̄</g> to the contrary in any wiſe notwithſtanding</p>
+            <p>Prouided alſo that all and euery of the kinges highnes ſaid Subiectes, borne within this Realme by vertue and aucthoritie of the Kinges Letters Patentes may cary ouer and tranſporte eny of the kin<g ref="char:EOLhyphen"/>des of commodities aforeſaid, for the neceſſary victualling and furniſhing of Callice, Guiſnes, Hammes, Ryce bancke, and the marches of the ſame, this proclamation notwithſtanding, So that by colour ther<g ref="char:EOLhyphen"/>of, the ſaid kindes of commodities ne any of them be not in other places beſtowed or employed contrary to the true intent and meaning of this proclamation.</p>
+            <p>Prouided alſo that it ſhalbe leful for al maner of perſo<g ref="char:cmbAbbrStroke">̄</g>s aſwel marchantes as other hauing good &amp; lau<g ref="char:EOLhyphen"/>ful occaſio<g ref="char:cmbAbbrStroke">̄</g> to repaire to the ſees, to furniſh their ſhips &amp; veſſelles with neceſſary prouiſio<g ref="char:cmbAbbrStroke">̄</g> of victual for the ſame &amp; not otherwiſe, this proclamation or any thing therin conteined to the contrary notwithſtanding.</p>
+            <p>Prouided alwaies that all Brewers, and Bakers, may bie all &amp; euery the ſaide kindes of Graines &amp; the Meales of theſame, ſo that they conuert theſame, ſo by them bought, or to be bought, into bread &amp; drink to be ſold at reaſonable prices accordyng to the auncient eſtatutes and lawes of this realme, or one of theim.</p>
+            <p>Prouided alſo that all and euery Inne kepers may ſell and vtter in their Iunes or houſes, Beanes Peaſe and Otes to ſuche as be or ſhalbe there geſtes and ſhalbe Lodged with theim or any of theym, ſo that they ſel theſame at reſonable &amp; conuenient prices, according to the lawes &amp; ſtatutes of this Realme.</p>
+            <p>Prouided alſo that al baggers and common cariers of grayn may bye and ſel any of the ſaid graines, ſo that theſame be ſold to any Bakers, Bruers. Inholders or in open Market, accordyng to the tenor &amp; ef<g ref="char:EOLhyphen"/>fect of this proclamacion, forſeing alway that theſaid Baggers &amp; common cariers ne any other to theyr vſe haue at any one time of their owne in their poſſeſſion or in the poſſeſſio<g ref="char:cmbAbbrStroke">̄</g> of any others to their vſe aboue the noumber of
+.xx. quarters of any one of the kindes of grain aforſaid, ouer &amp; aboue the graine and corne that he carieth to the market to be ſold from market day to market day, takyng for the cariage of theſame graine to the market ſuche like gaine and aduauntage as heretofore they haue vſed for theſame cariage.</p>
+            <p>
+               <hi>AND</hi> further the kynges Maieſtie moſt ſtraightly chargeth and commaundeth al &amp; euery his ſubiectes of what degre ſoeuer he or they be, that in no wiſe any of them vpon his or their dutie of allegeaunce meddle or enterprice to put any article or clauſe of this proclamacion in execucion by color or pretence of theſame, but only y<hi rend="sup">e</hi> Iuſtices of peace or ſuch other as haue eſpecial auctoritie by this preſe<g ref="char:cmbAbbrStroke">̄</g>t proclamacio<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>
+               <hi>AND</hi> we conſideryng the premiſſes to be for the welthe and commoditie of this our Realme, wyll and commaunde all Shirifes of our countie, Maiors and Bailiefes of euery Citie and borough within this our Realme, within vi. daies next after the receipte of this our proclamacio<g ref="char:cmbAbbrStroke">̄</g>, y<hi rend="sup">t</hi> he or they with al ſpede ſhall proclaime the premiſſes in al market townes within their limittes, and that all manner out ſubiectes ſhall obey theſame, vpon paine to incurre our indignacion and diſpleaſure. And this proclamacion to continue duryng our pleaſoure.</p>
+            <closer>God ſaue the King</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>RICHARDVS GRAFTON typographus Regius excudebat. M. D. L.</p>
+            <p>
+               <hi>Cum priuilegio ad imprimendum ſolum</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
